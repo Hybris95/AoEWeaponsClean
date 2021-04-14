@@ -1,0 +1,8 @@
+{
+    "name":"AoE Weapons Clean",
+    "version":"0.1.0",
+    "description":"Cleans up your chat from AoE weapon damages.",
+    "creator":"Hybris95",
+    "requires": ["SettingsManager"],
+    "entry":"index.js"
+}
